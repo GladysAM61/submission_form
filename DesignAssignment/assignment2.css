@@ -1,0 +1,12 @@
+h1{
+    font-size: 60px;text-align: center;text-shadow:3px 3px 8px pink;font-family: Verdana;
+}
+form{
+    margin: 10px 10px 20px; font-size: 50px;font-family: Roboto Slab; color: rgb(255, 139, 159); 
+}
+input{
+    font-size: 40px;
+}
+body{
+    padding: 100px 100px
+}
